@@ -1,4 +1,5 @@
-## Aplicacion Node para obetener temperatura en una ciudad
+## Aplicación Node que permite recibir peticiones get, post, delete y put
+# Node application that allows receiving get, post, delete and put requests
 
 
 Instalación
